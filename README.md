@@ -4,10 +4,10 @@ Keeper App is a simple, responsive, and interactive note-taking application buil
 
 ## Features
 
-- Add Notes:** Users can create notes with a title and content.  
-- Delete Notes:** Each note has a dedicated delete button for easy removal.  
-- Dynamic Rendering:** Notes are dynamically rendered using React state management.  
-- Responsive Design:** Works across all devices and browsers with consistent styling.  
+- Add Notes: Users can create notes with a title and content.  
+- Delete Notes: Each note has a dedicated delete button for easy removal.  
+- Dynamic Rendering: Notes are dynamically rendered using React state management.  
+- Responsive Design: Works across all devices and browsers with consistent styling.  
 
 ## Technologies Used
 
